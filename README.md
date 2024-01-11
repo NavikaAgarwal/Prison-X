@@ -1,5 +1,5 @@
 # Prison X
-This project was undertaken by me, as a task from my college for mini project in my 5th Semester.
+I initiated and carried out this project as part of a mini-project assignment for my college during the fifth semester.
 
 ## Overview
 
