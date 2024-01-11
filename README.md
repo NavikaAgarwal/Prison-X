@@ -1,4 +1,5 @@
 # Prison X
+This project was undertaken by me, as a task from my college for mini project in my 5th Semester.
 
 ## Overview
 
