@@ -29,16 +29,19 @@
 			</div>
 			
 			<!-- Login Form -->
-			<form id="login" class="input-group" action="index.html">
-				<div class="inp">
-					<img src="images/icon/user.png"><input type="text" id="email" class="input-field" placeholder="Username or Phone Number" style="width: 88%; border:none;" required="required">
-				</div>
-				<div class="inp">
-					<img src="images/icon/password.png"><input type="password" id="password" class="input-field" placeholder="Password" style="width: 88%; border: none;" required="required">
-				</div>
-				<input type="checkbox" class="check-box">Remember Password
-				<button type="submit" class="submit-btn">Log In</button>
-			</form>
+		<form id="login" class="input-group" action="index.html">
+    <input type="hidden" name="csrf_token" value="your_token_here"> <!-- CSRF Token -->
+    <div class="inp">
+        <img src="images/icon/user.png">
+        <input type="text" id="email" class="input-field" placeholder="Username or Phone Number" style="width: 88%; border:none;" required="required">
+    </div>
+    <div class="inp">
+        <img src="images/icon/password.png">
+        <input type="password" id="password" class="input-field" placeholder="Password" style="width: 88%; border: none;" required="required" autocomplete="off">
+    </div>
+    <input type="checkbox" class="check-box">Remember Password
+    <button type="submit" class="submit-btn">Log In</button>
+</form>
 
 
 			<div class="other" id="other">
