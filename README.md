@@ -7,4 +7,4 @@ Prison X is an e-portal designed to streamline and improve the management of und
 
 ## Contact
 
-For questions or support, please contact at navikaag24@outlook.com / lkhandelwal559@outlook.com 
+For questions or support, please contact at navikaag24@outlook.com  / lkhandelwal559@outlook.com 
