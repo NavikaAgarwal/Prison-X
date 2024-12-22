@@ -1,5 +1,5 @@
 # Prison X
-I initiated and carried out this project as part of a mini-project assignment for my college during the fifth semester.
+We initiated and carried out this project as part of a mini-project assignment for my college during the fifth semester.
 
 ## Overview
 
@@ -7,4 +7,4 @@ Prison X is an e-portal designed to streamline and improve the management of und
 
 ## Contact
 
-For questions or support, please contact at navikaag24@outlook.com.
+For questions or support, please contact at navikaag24@outlook.com / lkhandelwal559@outlook.com 
